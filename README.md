@@ -16,8 +16,3 @@ Provided data-driven insights to improve sales strategies and operational effici
 - **Excel** 
 - **Power BI:** for data visualization and dashboard design
 - **Sales Forecasting:** based on historical trends
-
-## Tools & Technologies:
-- **Python:** pandas, matplotlib, seaborn
-- **Power BI:** for data visualization and dashboard design
-- **Sales Forecasting:** based on historical trends
