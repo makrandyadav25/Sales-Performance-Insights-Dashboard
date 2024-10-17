@@ -3,19 +3,19 @@
 This project focuses on analyzing supermarket sales data and generating insights to improve business performance. By cleaning and analyzing historical sales data, I created an interactive Power BI dashboard that allows for detailed exploration of sales performance across various time frames. Additionally, I forecasted sales for the next 15 days and provided actionable recommendations for business growth and operational efficiency.
 
 ## Project Highlights:
--**Data Cleaning & Analysis:** 
+- **Data Cleaning & Analysis:** 
 Processed historical supermarket sales data to identify key trends and performance indicators.
--**Interactive Dashboard:** 
+- **Interactive Dashboard:** 
 Designed a Power BI dashboard with filters for granular exploration of sales data, allowing users to drill down into specific metrics and time periods.
--**Sales Forecasting:** 
+- **Sales Forecasting:** 
 Predicted sales for the upcoming 15 days based on historical data trends.
--**Recommendations:** 
+- **Recommendations:** 
 Provided data-driven insights to improve sales strategies and operational efficiency.
 
 ## Tools & Technologies:
--**Excel** 
--**Power BI:** for data visualization and dashboard design
--**Sales Forecasting:** based on historical trends
+- **Excel** 
+- **Power BI:** for data visualization and dashboard design
+- **Sales Forecasting:** based on historical trends
 
 ## Tools & Technologies:
 - **Python:** pandas, matplotlib, seaborn
