@@ -1,19 +1,18 @@
 # Sales-Performance-Insights-Dashboard
 
-## Complete Power BI project in just one video. Topics covered in this Power BI Project video: 
-Power BI Project Overview
-Power Bi Project Objective
-Import Data in Power BI
-Data Cleaning & Processing in Power BI
-Power Query Editor in Power BI
-DAX in Power BI
-Measures and Calculations in Power BI
-Create New Columns and Tables in Power BI
-Advanced Charts and Maps in Power BI
-Filters and Slicers in Power BI
-Zoom in Charts in Power BI
-Dashboard Design in Power BI 
-Forecasting in Power BI
-Power BI Sales Forecast
-Export Power BI Dashboard
-Insights from Dashboard 
+This project focuses on analyzing supermarket sales data and generating insights to improve business performance. By cleaning and analyzing historical sales data, I created an interactive Power BI dashboard that allows for detailed exploration of sales performance across various time frames. Additionally, I forecasted sales for the next 15 days and provided actionable recommendations for business growth and operational efficiency.
+
+##Project Highlights:
+Data Cleaning & Analysis: 
+Processed historical supermarket sales data to identify key trends and performance indicators.
+Interactive Dashboard: 
+Designed a Power BI dashboard with filters for granular exploration of sales data, allowing users to drill down into specific metrics and time periods.
+Sales Forecasting: 
+Predicted sales for the upcoming 15 days based on historical data trends.
+Recommendations: 
+Provided data-driven insights to improve sales strategies and operational efficiency.
+
+##Tools & Technologies:
+Python: pandas, matplotlib, seaborn
+Power BI: for data visualization and dashboard design
+Sales Forecasting: based on historical trends
